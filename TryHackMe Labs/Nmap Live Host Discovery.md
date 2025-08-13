@@ -1,4 +1,4 @@
-# TryHackMe Lab: Nmap
+# TryHackMe Lab: Nmap Live Host Discovery
 
 ## NMAP
 Nmap is a tool used to **identify systems that are online** and the **services running on those systems**.  

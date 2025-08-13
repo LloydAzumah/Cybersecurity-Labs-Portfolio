@@ -1,6 +1,4 @@
 
-Got it ✅ — here’s your **full GitHub-ready Hydra lab write-up** in one block so you can copy and paste directly into your `cybersecurity-labs-portfolio` repo.
-
 ````markdown
 # 🐉 Hydra – Credential Brute-Forcing Lab
 
@@ -65,8 +63,6 @@ http-post-form "/<path>:username=^USER^&password=^PASS^:<invalid_response>" -v
 
 ---
 
-## 💡 Example Scenarios
-
 **1. SSH Brute Force**
 
 ```bash
@@ -98,11 +94,5 @@ http-post-form "/login:username=^USER^&password=^PASS^:F=incorrect" -v
 
 ---
 
-*Lab completed as part of my ongoing cybersecurity learning journey.*
 
-```
 
-This is ready for pasting straight into your GitHub repo.  
-
-If you want, I can now make you a **standard lab report template** so all future labs in your portfolio match this style perfectly. That will make the whole repo look organized and professional.
-```

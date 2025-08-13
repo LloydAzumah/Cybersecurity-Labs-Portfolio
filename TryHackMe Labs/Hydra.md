@@ -28,12 +28,10 @@ It was completed in a controlled, authorized environment as part of my hands-on 
 ```bash
 hydra -l user -P <filename> ftp://<IP_ADDRESS>
 
-
 ### SSH
+---bash
 
-```bash
-hydra -l <username> -P <wordlist> <IP_ADDRESS> -t 4 ssh
-```
+
 
 **Options:**
 

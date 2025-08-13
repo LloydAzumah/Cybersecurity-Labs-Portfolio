@@ -1,5 +1,4 @@
 
-````markdown
 # 🐉 Hydra – Credential Brute-Forcing Lab
 
 ## 📄 Overview
@@ -28,7 +27,7 @@ It was completed in a controlled, authorized environment as part of my hands-on 
 ### FTP
 ```bash
 hydra -l user -P <filename> ftp://<IP_ADDRESS>
-````
+
 
 ### SSH
 
